@@ -1,0 +1,22 @@
+{
+  "name": "CheckManager",
+  "version": "0.1.0",
+  "summary": "A short description of CheckManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iOS测试/CheckManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iOS测试": "2210967887@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/iOS测试/CheckManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CheckManager/Classes/**/*"
+}

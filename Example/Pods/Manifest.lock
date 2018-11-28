@@ -1,0 +1,27 @@
+PODS:
+  - CheckManager (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CheckManager (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CheckManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CheckManager: 647edc069497755b967f95a721f0a0f9afa0b394
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: b9efbe4a0737a6f8176cbb56ed2f5bca101853d9
+
+COCOAPODS: 1.5.0

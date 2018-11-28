@@ -1,0 +1,6 @@
+framework module CheckManager {
+  umbrella header "CheckManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
